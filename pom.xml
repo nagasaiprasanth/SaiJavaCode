@@ -28,6 +28,17 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
+   
+  <distributionManagement>
+    <snapshotRepository>
+      <id>nexus-snapshots</id>
+      <url>http://52.66.189.108:8081/repository/maven-snapshots/</url>
+    </snapshotRepository>
+    <repository>
+      <id>nexus-releases</id>
+      <url>http://52.66.189.108:8081/repository/maven-releases/</url>
+    </repository>
+  </distributionManagement>
 
   <build>
     <plugins>
@@ -216,15 +227,6 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
-           <distributionManagement>
-    <snapshotRepository>
-      <id>nexus-snapshots</id>
-      <url>http://52.66.189.108:8081/repository/maven-snapshots/</url>
-    </snapshotRepository>
-    <repository>
-      <id>nexus-releases</id>
-      <url>http://52.66.189.108:8081/repository/maven-releases/</url>
-    </repository>
-  </distributionManagement>
+           
 
 </project>
