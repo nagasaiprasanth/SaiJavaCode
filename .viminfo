@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1694508868,,"wq"
+|2,0,1694598856,,"wq"
 :WQ
 |2,0,1694507740,,"WQ"
 
@@ -35,36 +35,50 @@
 |3,1,36,0,1,0,1694493273,"="
 
 # File marks:
-'0  244  0  ~/pom.xml
-|4,48,244,0,1694508868,"~/pom.xml"
-'1  16  34  ~/.bash_profile
-|4,49,16,34,1694507745,"~/.bash_profile"
-'2  2  24  /etc/systemd/system/sonar.service
-|4,50,2,24,1694499478,"/etc/systemd/system/sonar.service"
-'3  2  24  /etc/systemd/system/sonar.service
-|4,51,2,24,1694499433,"/etc/systemd/system/sonar.service"
-'4  13  0  /etc/systemd/system/sonar.service
-|4,52,13,0,1694499200,"/etc/systemd/system/sonar.service"
-'5  13  0  /etc/systemd/system/sonar.service
-|4,53,13,0,1694499200,"/etc/systemd/system/sonar.service"
+'0  239  25  ~/pom.xml
+|4,48,239,25,1694598856,"~/pom.xml"
+'1  244  0  ~/pom.xml
+|4,49,244,0,1694508868,"~/pom.xml"
+'2  244  0  ~/pom.xml
+|4,50,244,0,1694508868,"~/pom.xml"
+'3  16  34  ~/.bash_profile
+|4,51,16,34,1694507745,"~/.bash_profile"
+'4  2  24  /etc/systemd/system/sonar.service
+|4,52,2,24,1694499478,"/etc/systemd/system/sonar.service"
+'5  2  24  /etc/systemd/system/sonar.service
+|4,53,2,24,1694499433,"/etc/systemd/system/sonar.service"
 '6  13  0  /etc/systemd/system/sonar.service
 |4,54,13,0,1694499200,"/etc/systemd/system/sonar.service"
 '7  13  0  /etc/systemd/system/sonar.service
 |4,55,13,0,1694499200,"/etc/systemd/system/sonar.service"
-'8  18  0  /opt/sonar/conf/sonar.properties
-|4,56,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
-'9  4  72  /opt/sonar/conf/wrapper.conf
-|4,57,4,72,1694493346,"/opt/sonar/conf/wrapper.conf"
+'8  13  0  /etc/systemd/system/sonar.service
+|4,56,13,0,1694499200,"/etc/systemd/system/sonar.service"
+'9  13  0  /etc/systemd/system/sonar.service
+|4,57,13,0,1694499200,"/etc/systemd/system/sonar.service"
 
 # Jumplist (newest first):
+-'  239  25  ~/pom.xml
+|4,39,239,25,1694598856,"~/pom.xml"
+-'  244  0  ~/pom.xml
+|4,39,244,0,1694598830,"~/pom.xml"
 -'  244  0  ~/pom.xml
 |4,39,244,0,1694508868,"~/pom.xml"
+-'  1  0  ~/pom.xml
+|4,39,1,0,1694508798,"~/pom.xml"
 -'  1  0  ~/pom.xml
 |4,39,1,0,1694508798,"~/pom.xml"
 -'  16  34  ~/.bash_profile
 |4,39,16,34,1694507745,"~/.bash_profile"
 -'  16  34  ~/.bash_profile
 |4,39,16,34,1694507745,"~/.bash_profile"
+-'  16  34  ~/.bash_profile
+|4,39,16,34,1694507745,"~/.bash_profile"
+-'  16  34  ~/.bash_profile
+|4,39,16,34,1694507745,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1694507639,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1694507639,"~/.bash_profile"
 -'  1  0  ~/.bash_profile
 |4,39,1,0,1694507639,"~/.bash_profile"
 -'  1  0  ~/.bash_profile
@@ -78,6 +92,18 @@
 -'  2  24  /etc/systemd/system/sonar.service
 |4,39,2,24,1694499478,"/etc/systemd/system/sonar.service"
 -'  2  24  /etc/systemd/system/sonar.service
+|4,39,2,24,1694499478,"/etc/systemd/system/sonar.service"
+-'  2  24  /etc/systemd/system/sonar.service
+|4,39,2,24,1694499478,"/etc/systemd/system/sonar.service"
+-'  2  24  /etc/systemd/system/sonar.service
+|4,39,2,24,1694499478,"/etc/systemd/system/sonar.service"
+-'  2  24  /etc/systemd/system/sonar.service
+|4,39,2,24,1694499478,"/etc/systemd/system/sonar.service"
+-'  2  24  /etc/systemd/system/sonar.service
+|4,39,2,24,1694499433,"/etc/systemd/system/sonar.service"
+-'  2  24  /etc/systemd/system/sonar.service
+|4,39,2,24,1694499433,"/etc/systemd/system/sonar.service"
+-'  2  24  /etc/systemd/system/sonar.service
 |4,39,2,24,1694499433,"/etc/systemd/system/sonar.service"
 -'  2  24  /etc/systemd/system/sonar.service
 |4,39,2,24,1694499433,"/etc/systemd/system/sonar.service"
@@ -85,6 +111,10 @@
 |4,39,2,24,1694499433,"/etc/systemd/system/sonar.service"
 -'  2  24  /etc/systemd/system/sonar.service
 |4,39,2,24,1694499433,"/etc/systemd/system/sonar.service"
+-'  2  24  /etc/systemd/system/sonar.service
+|4,39,2,24,1694499433,"/etc/systemd/system/sonar.service"
+-'  2  24  /etc/systemd/system/sonar.service
+|4,39,2,24,1694499433,"/etc/systemd/system/sonar.service"
 -'  13  0  /etc/systemd/system/sonar.service
 |4,39,13,0,1694499390,"/etc/systemd/system/sonar.service"
 -'  13  0  /etc/systemd/system/sonar.service
@@ -101,6 +131,30 @@
 |4,39,13,0,1694499390,"/etc/systemd/system/sonar.service"
 -'  13  0  /etc/systemd/system/sonar.service
 |4,39,13,0,1694499390,"/etc/systemd/system/sonar.service"
+-'  13  0  /etc/systemd/system/sonar.service
+|4,39,13,0,1694499390,"/etc/systemd/system/sonar.service"
+-'  13  0  /etc/systemd/system/sonar.service
+|4,39,13,0,1694499390,"/etc/systemd/system/sonar.service"
+-'  13  0  /etc/systemd/system/sonar.service
+|4,39,13,0,1694499390,"/etc/systemd/system/sonar.service"
+-'  13  0  /etc/systemd/system/sonar.service
+|4,39,13,0,1694499390,"/etc/systemd/system/sonar.service"
+-'  13  0  /etc/systemd/system/sonar.service
+|4,39,13,0,1694499390,"/etc/systemd/system/sonar.service"
+-'  13  0  /etc/systemd/system/sonar.service
+|4,39,13,0,1694499390,"/etc/systemd/system/sonar.service"
+-'  13  0  /etc/systemd/system/sonar.service
+|4,39,13,0,1694499390,"/etc/systemd/system/sonar.service"
+-'  13  0  /etc/systemd/system/sonar.service
+|4,39,13,0,1694499390,"/etc/systemd/system/sonar.service"
+-'  13  0  /etc/systemd/system/sonar.service
+|4,39,13,0,1694499200,"/etc/systemd/system/sonar.service"
+-'  13  0  /etc/systemd/system/sonar.service
+|4,39,13,0,1694499200,"/etc/systemd/system/sonar.service"
+-'  13  0  /etc/systemd/system/sonar.service
+|4,39,13,0,1694499200,"/etc/systemd/system/sonar.service"
+-'  13  0  /etc/systemd/system/sonar.service
+|4,39,13,0,1694499200,"/etc/systemd/system/sonar.service"
 -'  13  0  /etc/systemd/system/sonar.service
 |4,39,13,0,1694499200,"/etc/systemd/system/sonar.service"
 -'  13  0  /etc/systemd/system/sonar.service
@@ -133,6 +187,30 @@
 |4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
 -'  1  0  /etc/systemd/system/sonar.service
 |4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
+-'  1  0  /etc/systemd/system/sonar.service
+|4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
+-'  1  0  /etc/systemd/system/sonar.service
+|4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
+-'  1  0  /etc/systemd/system/sonar.service
+|4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
+-'  1  0  /etc/systemd/system/sonar.service
+|4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
+-'  1  0  /etc/systemd/system/sonar.service
+|4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
+-'  1  0  /etc/systemd/system/sonar.service
+|4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
+-'  1  0  /etc/systemd/system/sonar.service
+|4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
+-'  1  0  /etc/systemd/system/sonar.service
+|4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
+-'  1  0  /etc/systemd/system/sonar.service
+|4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
+-'  1  0  /etc/systemd/system/sonar.service
+|4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
+-'  1  0  /etc/systemd/system/sonar.service
+|4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
+-'  1  0  /etc/systemd/system/sonar.service
+|4,39,1,0,1694499042,"/etc/systemd/system/sonar.service"
 -'  18  0  /opt/sonar/conf/sonar.properties
 |4,39,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
 -'  18  0  /opt/sonar/conf/sonar.properties
@@ -179,95 +257,18 @@
 |4,39,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
 -'  18  0  /opt/sonar/conf/sonar.properties
 |4,39,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
--'  18  0  /opt/sonar/conf/sonar.properties
-|4,39,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
--'  18  0  /opt/sonar/conf/sonar.properties
-|4,39,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
--'  18  0  /opt/sonar/conf/sonar.properties
-|4,39,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
--'  18  0  /opt/sonar/conf/sonar.properties
-|4,39,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
--'  18  0  /opt/sonar/conf/sonar.properties
-|4,39,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
--'  18  0  /opt/sonar/conf/sonar.properties
-|4,39,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
--'  18  0  /opt/sonar/conf/sonar.properties
-|4,39,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
--'  18  0  /opt/sonar/conf/sonar.properties
-|4,39,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
--'  18  0  /opt/sonar/conf/sonar.properties
-|4,39,18,0,1694493625,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
--'  107  0  /opt/sonar/conf/sonar.properties
-|4,39,107,0,1694493548,"/opt/sonar/conf/sonar.properties"
 
 # History of marks within files (newest to oldest):
 
 > ~/pom.xml
-	*	1694508867	0
-	"	244	0
-	^	244	0
-	.	243	10
+	*	1694598855	0
+	"	239	25
+	^	239	26
+	.	239	25
 	+	213	0
 	+	211	13
 	+	243	10
+	+	239	25
 
 > ~/.bash_profile
 	*	1694507741	0
